@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeArrayList", "EmployeeArrayList\EmployeeArrayList.csproj", "{658423A1-B702-4309-B83D-C27B8E7F16D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658423A1-B702-4309-B83D-C27B8E7F16D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658423A1-B702-4309-B83D-C27B8E7F16D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658423A1-B702-4309-B83D-C27B8E7F16D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658423A1-B702-4309-B83D-C27B8E7F16D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4985CAA-3801-409E-9A02-5166C452BDA4}
+	EndGlobalSection
+EndGlobal

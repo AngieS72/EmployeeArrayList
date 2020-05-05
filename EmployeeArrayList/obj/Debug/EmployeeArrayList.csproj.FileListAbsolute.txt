@@ -1,0 +1,12 @@
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.exe.config
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.exe
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.pdb
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.exe
+C:\Users\Angie Shelton\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.exe.config
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\bin\Debug\EmployeeArrayList.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\EmployeeArrayList\EmployeeArrayList\obj\Debug\EmployeeArrayList.pdb
